@@ -1,0 +1,4 @@
+BankID,AlertType,Message
+1,Low Liquidity,Liquidity below threshold
+2,Low Liquidity,Liquidity dropped slightly
+3,Stable,Liquidity is stable
